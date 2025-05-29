@@ -207,7 +207,7 @@
       "boostClock": "2520 MHz",
       "imageUrl": "https://via.placeholder.com/300x200/00ff00/000?text=RTX+4090",
       "manufacturer": "NVIDIA",
-      "architecture": "Ada Lovelace",
+      "architecture": "Ada Lovelace", 
       "tdp": "450W"
     },
     {
