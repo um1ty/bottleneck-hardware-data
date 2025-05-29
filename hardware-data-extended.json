@@ -3294,42 +3294,90 @@
     "tdp": "15W"
   }
   ],
-  "resolutions": [
-    {
-      "name": "720p",
-      "multiplier": 1.0,
-      "description": "1280x720 - Entry level gaming",
-      "pixelCount": 921600
-    },
-    {
-      "name": "1080p",
-      "multiplier": 1.5,
-      "description": "1920x1080 - Standard gaming",
-      "pixelCount": 2073600
-    },
-    {
-      "name": "1440p",
-      "multiplier": 2.5,
-      "description": "2560x1440 - High resolution gaming",
-      "pixelCount": 3686400
-    },
-    {
-      "name": "4K",
-      "multiplier": 4.0,
-      "description": "3840x2160 - Ultra high resolution gaming",
-      "pixelCount": 8294400
-    },
-    {
-      "name": "1080p Ultrawide",
-      "multiplier": 1.8,
-      "description": "2560x1080 - Ultrawide gaming",
-      "pixelCount": 2764800
-    },
-    {
-      "name": "1440p Ultrawide",
-      "multiplier": 3.2,
-      "description": "3440x1440 - Ultrawide high resolution",
-      "pixelCount": 4953600
-    }
-  ]
+"resolutions": [
+  {
+    "name": "720p",
+    "multiplier": 1.0,
+    "description": "1280x720 - Entry-level gaming",
+    "pixelCount": 921600
+  },
+  {
+    "name": "1080p",
+    "multiplier": 1.5,
+    "description": "1920x1080 - Standard gaming (most popular)",
+    "pixelCount": 2073600
+  },
+  {
+    "name": "1440p",
+    "multiplier": 2.5,
+    "description": "2560x1440 - Sweet spot for high-end gaming",
+    "pixelCount": 3686400
+  },
+  {
+    "name": "4K",
+    "multiplier": 4.0,
+    "description": "3840x2160 - Ultra HD gaming",
+    "pixelCount": 8294400
+  },
+  {
+    "name": "1080p Ultrawide",
+    "multiplier": 1.8,
+    "description": "2560x1080 - Immersive ultrawide gaming",
+    "pixelCount": 2764800
+  },
+  {
+    "name": "1440p Ultrawide",
+    "multiplier": 3.2,
+    "description": "3440x1440 - High-res ultrawide gaming",
+    "pixelCount": 4953600
+  },
+  {
+    "name": "4K Ultrawide",
+    "multiplier": 5.0,
+    "description": "5120x2160 - Cutting-edge ultrawide",
+    "pixelCount": 11059200
+  },
+  {
+    "name": "1080p 144Hz",
+    "multiplier": 1.7,
+    "description": "1920x1080 @144Hz - Competitive gaming",
+    "pixelCount": 2073600
+  },
+  {
+    "name": "1440p 165Hz",
+    "multiplier": 2.8,
+    "description": "2560x1440 @165Hz - High refresh rate gaming",
+    "pixelCount": 3686400
+  },
+  {
+    "name": "4K 120Hz",
+    "multiplier": 4.5,
+    "description": "3840x2160 @120Hz - Premium gaming experience",
+    "pixelCount": 8294400
+  },
+  {
+    "name": "Super Ultrawide",
+    "multiplier": 3.8,
+    "description": "3840x1080 - Dual-screen width gaming",
+    "pixelCount": 4147200
+  },
+  {
+    "name": "DQHD",
+    "multiplier": 4.2,
+    "description": "5120x1440 - Dual Quad HD gaming",
+    "pixelCount": 7372800
+  },
+  {
+    "name": "5K",
+    "multiplier": 5.5,
+    "description": "5120x2880 - Professional gaming/creation",
+    "pixelCount": 14745600
+  },
+  {
+    "name": "8K",
+    "multiplier": 8.0,
+    "description": "7680x4320 - Future-proof enthusiast gaming",
+    "pixelCount": 33177600
+  }
+]
 }
