@@ -8,7 +8,7 @@
     {
       "name": "Intel Core i9-13900K",
       "score": 24500,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/MyIi6snj2fE8G1LSOQH7/media/675b0c233b6d82efd91c4057.jpeg"
     },
     {
       "name": "AMD Ryzen 7 7800X3D",
@@ -59,7 +59,32 @@
       "name": "AMD Ryzen 9 5900X",
       "score": 15500,
       "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    }
+    },
+      {
+    "name": "Intel Core i9-13900K",
+    "score": 23500,
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/9f6f47c2b5434ef0a0e4f3d6.jpeg"
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D",
+    "score": 22000,
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/eaf6dceba0114664a3ef7e38.jpeg"
+  },
+  {
+    "name": "Intel Core i7-13700K",
+    "score": 20000,
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/4be86c89d09b44f0b7ea7c9a.jpeg"
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "score": 18000,
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/a9c87b25ad3e4631a3c72c0e.jpeg"
+  },
+  {
+    "name": "Intel Core i5-13600K",
+    "score": 17000,
+    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/19275e2df0544fa6bdfbafde.jpeg"
+  }
   ],
   "gpus": [
     {
