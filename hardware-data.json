@@ -1,10 +1,18 @@
 {
   "cpus": [
-    {
-      "name": "AMD Ryzen 9 7950X",
-      "score": 25000,
-      "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/MyIi6snj2fE8G1LSOQH7/media/675b0c233b6d82efd91c4057.jpeg"
-    },
+      {
+    "name": "AMD Ryzen Threadripper 7980X",
+    "score": 25655,
+    "tier": "High-End",
+    "cores": 64,
+    "threads": 128,
+    "baseClock": "2.5 GHz",
+    "boostClock": "4.2 GHz",
+    "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+7980X",
+    "manufacturer": "AMD",
+    "socket": "sTRX4",
+    "tdp": "280W"
+  },
     {
       "name": "Intel Core i9-13900K",
       "score": 24500,
