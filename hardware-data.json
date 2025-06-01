@@ -1,185 +1,1329 @@
 {
   "cpus": [
-      {
-    "name": "AMD Ryzen Threadripper 7980X",
-    "score": 25655,
-    "tier": "High-End",
-    "cores": 64,
-    "threads": 128,
-    "baseClock": "2.5 GHz",
-    "boostClock": "4.2 GHz",
-    "imageUrl": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+7980X",
-    "manufacturer": "AMD",
-    "socket": "sTRX4",
-    "tdp": "280W"
-  },
+    {
+      "name": "AMD Ryzen Threadripper 7980X",
+      "score": 25655,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+7980X"
+    },
+    {
+      "name": "AMD Ryzen Threadripper 7970X",
+      "score": 21557,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+7970X"
+    },
+    {
+      "name": "AMD Ryzen Threadripper 7960X",
+      "score": 19724,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+7960X"
+    },
+    {
+      "name": "AMD Ryzen Threadripper PRO 7965WX",
+      "score": 18754,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+PRO+7965WX"
+    },
+    {
+      "name": "Intel Core Ultra 9 285K",
+      "score": 18712,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+9+285K"
+    },
+    {
+      "name": "AMD Ryzen Threadripper 3990X",
+      "score": 18441,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+3990X"
+    },
+    {
+      "name": "AMD Ryzen 9 9950X3D",
+      "score": 17184,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+9950X3D"
+    },
+    {
+      "name": "Intel Core Ultra 9 285",
+      "score": 17062,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+9+285"
+    },
+    {
+      "name": "AMD Ryzen 9 9950X",
+      "score": 16780,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+9950X"
+    },
+    {
+      "name": "Intel Core Ultra 7 265KF",
+      "score": 16598,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+7+265KF"
+    },
+    {
+      "name": "AMD Ryzen Threadripper 3970X",
+      "score": 16588,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+3970X"
+    },
+    {
+      "name": "Intel Core Ultra 7 265K",
+      "score": 16576,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+7+265K"
+    },
+    {
+      "name": "Intel Core i9 14900KS",
+      "score": 16313,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9+14900KS"
+    },
+    {
+      "name": "Intel Core i9-13900KS",
+      "score": 16243,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-13900KS"
+    },
+    {
+      "name": "Intel Core i9 14900K",
+      "score": 15732,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9+14900K"
+    },
+    {
+      "name": "Intel Core i9 14900KF",
+      "score": 15668,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9+14900KF"
+    },
+    {
+      "name": "AMD Ryzen 9 7950X",
+      "score": 15579,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7950X"
+    },
     {
       "name": "Intel Core i9-13900K",
-      "score": 24500,
-      "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/MyIi6snj2fE8G1LSOQH7/media/675b0c233b6d82efd91c4057.jpeg"
+      "score": 15509,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-13900K"
     },
     {
-      "name": "AMD Ryzen 7 7800X3D",
-      "score": 23000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "name": "Intel Core i9-13900KF",
+      "score": 15405,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-13900KF"
     },
     {
-      "name": "Intel Core i7-13700K",
-      "score": 22000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "name": "Intel Core i9 14900",
+      "score": 14628,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9+14900"
+    },
+    {
+      "name": "Intel Core i7 14700KF",
+      "score": 14339,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7+14700KF"
+    },
+    {
+      "name": "AMD Ryzen 9 7950X3D",
+      "score": 14252,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7950X3D"
+    },
+    {
+      "name": "Intel Core i7 14700K",
+      "score": 14244,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7+14700K"
+    },
+    {
+      "name": "Intel Core i9-13900F",
+      "score": 13985,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-13900F"
+    },
+    {
+      "name": "AMD Ryzen Threadripper 3960X",
+      "score": 13978,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+Threadripper+3960X"
+    },
+    {
+      "name": "AMD Ryzen 9 9900X",
+      "score": 13929,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+9900X"
+    },
+    {
+      "name": "AMD Ryzen 9 9900X3D",
+      "score": 13795,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+9900X3D"
+    },
+    {
+      "name": "Intel Core i9 14900F",
+      "score": 13649,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9+14900F"
+    },
+    {
+      "name": "Intel Core i7 14700",
+      "score": 12927,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7+14700"
     },
     {
       "name": "AMD Ryzen 9 7900X",
-      "score": 21500,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "score": 12536,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7900X"
+    },
+    {
+      "name": "Intel Core i7-13700KF",
+      "score": 12462,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-13700KF"
+    },
+    {
+      "name": "Intel Core Ultra 5 245K",
+      "score": 12456,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+5+245K"
+    },
+    {
+      "name": "Intel Core i7-13700K",
+      "score": 12412,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-13700K"
+    },
+    {
+      "name": "Intel Core i7 14700F",
+      "score": 12400,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7+14700F"
+    },
+    {
+      "name": "Intel Core i9-12900KS",
+      "score": 11897,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-12900KS"
+    },
+    {
+      "name": "Intel Core i7-13700",
+      "score": 11737,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-13700"
+    },
+    {
+      "name": "Intel Core i9-12900K",
+      "score": 11620,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-12900K"
+    },
+    {
+      "name": "AMD Ryzen 9 5950X",
+      "score": 11597,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+5950X"
+    },
+    {
+      "name": "Intel Core i9-12900KF",
+      "score": 11586,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-12900KF"
+    },
+    {
+      "name": "AMD Ryzen 9 7900X3D",
+      "score": 11480,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7900X3D"
+    },
+    {
+      "name": "AMD Ryzen 9 5900XT",
+      "score": 11040,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+5900XT"
+    },
+    {
+      "name": "AMD Ryzen 9 7900",
+      "score": 10953,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7900"
+    },
+    {
+      "name": "Intel Core i9-10980XE Extreme Edition",
+      "score": 10815,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10980XE+Extreme+Edition"
+    },
+    {
+      "name": "AMD Ryzen 9 3950X",
+      "score": 10719,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+3950X"
+    },
+    {
+      "name": "Intel Core i7-13700F",
+      "score": 10716,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-13700F"
+    },
+    {
+      "name": "Intel Core i5 14600KF",
+      "score": 10475,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5+14600KF"
+    },
+    {
+      "name": "Intel Core i5 14600K",
+      "score": 10360,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5+14600K"
+    },
+    {
+      "name": "Intel Core i5-13600KF",
+      "score": 10216,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13600KF"
     },
     {
       "name": "Intel Core i5-13600K",
-      "score": 20000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    },
-    {
-      "name": "AMD Ryzen 7 7700X",
-      "score": 19500,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    },
-    {
-      "name": "AMD Ryzen 5 7600X",
-      "score": 18000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    },
-    {
-      "name": "Intel Core i7-12700K",
-      "score": 17500,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    },
-    {
-      "name": "AMD Ryzen 7 5800X3D",
-      "score": 17000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
-    },
-    {
-      "name": "Intel Core i5-12600K",
-      "score": 16000,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "score": 10157,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13600K"
     },
     {
       "name": "AMD Ryzen 9 5900X",
-      "score": 15500,
-      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=150&h=150&fit=crop"
+      "score": 10075,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+5900X"
     },
-      {
-    "name": "Intel Core i9-13900K",
-    "score": 23500,
-    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/9f6f47c2b5434ef0a0e4f3d6.jpeg"
-  },
-  {
-    "name": "AMD Ryzen 7 7800X3D",
-    "score": 22000,
-    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/eaf6dceba0114664a3ef7e38.jpeg"
-  },
-  {
-    "name": "Intel Core i7-13700K",
-    "score": 20000,
-    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/4be86c89d09b44f0b7ea7c9a.jpeg"
-  },
-  {
-    "name": "AMD Ryzen 5 7600X",
-    "score": 18000,
-    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/a9c87b25ad3e4631a3c72c0e.jpeg"
-  },
-  {
-    "name": "Intel Core i5-13600K",
-    "score": 17000,
-    "image": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/media/19275e2df0544fa6bdfbafde.jpeg"
-  }
+    {
+      "name": "AMD Ryzen 7 9800X3D",
+      "score": 10067,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+9800X3D"
+    },
+    {
+      "name": "Intel Core i7-12700KF",
+      "score": 9983,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-12700KF"
+    },
+    {
+      "name": "Intel Core i7-12700K",
+      "score": 9979,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-12700K"
+    },
+    {
+      "name": "AMD Ryzen 7 9700X",
+      "score": 9771,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+9700X"
+    },
+    {
+      "name": "Intel Core i7-12700",
+      "score": 9446,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-12700"
+    },
+    {
+      "name": "Intel Core i7-12700F",
+      "score": 9403,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-12700F"
+    },
+    {
+      "name": "Intel Core i5 14500",
+      "score": 9166,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5+14500"
+    },
+    {
+      "name": "Intel Core i5-13500",
+      "score": 9014,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13500"
+    },
+    {
+      "name": "Intel Core i9-10900K",
+      "score": 8938,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10900K"
+    },
+    {
+      "name": "Intel Core i9-10900KF",
+      "score": 8919,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10900KF"
+    },
+    {
+      "name": "AMD Ryzen 7 7700X",
+      "score": 8852,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+7700X"
+    },
+    {
+      "name": "Intel Core i9-10850K",
+      "score": 8775,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10850K"
+    },
+    {
+      "name": "AMD Ryzen 9 3900XT",
+      "score": 8515,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+3900XT"
+    },
+    {
+      "name": "AMD Ryzen 7 7700",
+      "score": 8479,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+7700"
+    },
+    {
+      "name": "Intel Core i9-11900KF",
+      "score": 8322,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-11900KF"
+    },
+    {
+      "name": "Intel Core i9-11900K",
+      "score": 8319,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-11900K"
+    },
+    {
+      "name": "Intel Core i9-10900",
+      "score": 8083,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10900"
+    },
+    {
+      "name": "Intel Core i7-11700K",
+      "score": 8080,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-11700K"
+    },
+    {
+      "name": "Intel Core i7-11700KF",
+      "score": 8049,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-11700KF"
+    },
+    {
+      "name": "AMD Ryzen 7 7800X3D",
+      "score": 7967,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+7800X3D"
+    },
+    {
+      "name": "Intel Core i5-12600K",
+      "score": 7966,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12600K"
+    },
+    {
+      "name": "Intel Core i9-11900F",
+      "score": 7961,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-11900F"
+    },
+    {
+      "name": "Intel Core i5-12600KF",
+      "score": 7952,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12600KF"
+    },
+    {
+      "name": "AMD Ryzen 7 8700G",
+      "score": 7917,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+8700G"
+    },
+    {
+      "name": "Intel Core i9-10900F",
+      "score": 7866,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-10900F"
+    },
+    {
+      "name": "AMD Ryzen 7 8700F",
+      "score": 7861,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+8700F"
+    },
+    {
+      "name": "AMD Ryzen 7 5800XT",
+      "score": 7680,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5800XT"
+    },
+    {
+      "name": "Intel Core i7-11700",
+      "score": 7640,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-11700"
+    },
+    {
+      "name": "AMD Ryzen 5 9600X",
+      "score": 7590,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+9600X"
+    },
+    {
+      "name": "AMD Ryzen 7 5800X",
+      "score": 7578,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5800X"
+    },
+    {
+      "name": "Intel Core i5-13490F",
+      "score": 7550,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13490F"
+    },
+    {
+      "name": "Intel Core i7-11700F",
+      "score": 7479,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-11700F"
+    },
+    {
+      "name": "Intel Core i5 14400F",
+      "score": 7396,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5+14400F"
+    },
+    {
+      "name": "Intel Core i9-9900KS",
+      "score": 7360,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i9-9900KS"
+    },
+    {
+      "name": "Intel Core i5-13400",
+      "score": 7310,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13400"
+    },
+    {
+      "name": "Intel Core i5-13400F",
+      "score": 7307,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-13400F"
+    },
+    {
+      "name": "AMD Ryzen 7 5800X3D",
+      "score": 7285,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5800X3D"
+    },
+    {
+      "name": "Intel Core i7-10700K",
+      "score": 7266,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-10700K"
+    },
+    {
+      "name": "Intel Core i7-10700KF",
+      "score": 7247,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-10700KF"
+    },
+    {
+      "name": "AMD Ryzen 7 5800",
+      "score": 7138,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5800"
+    },
+    {
+      "name": "AMD Ryzen 7 5700X",
+      "score": 6850,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5700X"
+    },
+    {
+      "name": "AMD Ryzen 5 7600X",
+      "score": 6845,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+7600X"
+    },
+    {
+      "name": "AMD Ryzen 7 5700X3D",
+      "score": 6755,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5700X3D"
+    },
+    {
+      "name": "Intel Core i7-10700",
+      "score": 6719,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-10700"
+    },
+    {
+      "name": "Intel Core i7-10700F",
+      "score": 6679,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i7-10700F"
+    },
+    {
+      "name": "AMD Ryzen 7 5700G",
+      "score": 6627,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5700G"
+    },
+    {
+      "name": "AMD Ryzen 7 5700",
+      "score": 6617,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+5700"
+    },
+    {
+      "name": "AMD Ryzen 5 7600",
+      "score": 6503,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+7600"
+    },
+    {
+      "name": "AMD Ryzen 5 7500F",
+      "score": 6379,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+7500F"
+    },
+    {
+      "name": "AMD Ryzen 7 3800XT",
+      "score": 6294,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+3800XT"
+    },
+    {
+      "name": "Intel Core i5-11600K",
+      "score": 6270,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-11600K"
+    },
+    {
+      "name": "Intel Core i5-11600KF",
+      "score": 6240,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-11600KF"
+    },
+    {
+      "name": "AMD Ryzen 5 8400F",
+      "score": 6165,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+8400F"
+    },
+    {
+      "name": "AMD Ryzen 5 8600G",
+      "score": 6161,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+8600G"
+    },
+    {
+      "name": "Intel Core i5-12500",
+      "score": 6023,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12500"
+    },
+    {
+      "name": "AMD Ryzen 5 7600X3D",
+      "score": 5956,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+7600X3D"
+    },
+    {
+      "name": "Intel Core i5-12490F",
+      "score": 5936,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12490F"
+    },
+    {
+      "name": "Intel Core i5-12400F",
+      "score": 5912,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12400F"
+    },
+    {
+      "name": "Intel Core i5-12400",
+      "score": 5890,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-12400"
+    },
+    {
+      "name": "AMD Ryzen 5 5600",
+      "score": 5659,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5600"
+    },
+    {
+      "name": "Intel Core i5-11400F",
+      "score": 5652,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-11400F"
+    },
+    {
+      "name": "Intel Core i5-11400",
+      "score": 5630,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-11400"
+    },
+    {
+      "name": "AMD Ryzen 5 5600X",
+      "score": 5588,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5600X"
+    },
+    {
+      "name": "AMD Ryzen 5 5600GT",
+      "score": 5554,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5600GT"
+    },
+    {
+      "name": "AMD Ryzen 5 5600G",
+      "score": 5455,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5600G"
+    },
+    {
+      "name": "AMD Ryzen 5 5500",
+      "score": 5411,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+5500"
+    },
+    {
+      "name": "Intel Core i5-10600K",
+      "score": 5377,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-10600K"
+    },
+    {
+      "name": "Intel Core i5-10600KF",
+      "score": 5364,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-10600KF"
+    },
+    {
+      "name": "AMD Ryzen 5 8500G",
+      "score": 5213,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+8500G"
+    },
+    {
+      "name": "AMD Ryzen 5 4600G",
+      "score": 4889,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+4600G"
+    },
+    {
+      "name": "Intel Xeon E5-2666 v3",
+      "score": 4815,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Xeon+E5-2666+v3"
+    },
+    {
+      "name": "AMD Ryzen 5 3600XT",
+      "score": 4800,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+3600XT"
+    },
+    {
+      "name": "AMD Ryzen 5 4500",
+      "score": 4795,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+4500"
+    },
+    {
+      "name": "Intel Core i5-10400F",
+      "score": 4735,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-10400F"
+    },
+    {
+      "name": "Intel Core i5-10400",
+      "score": 4715,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i5-10400"
+    },
+    {
+      "name": "AMD Ryzen 5 3600",
+      "score": 4603,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+3600"
+    },
+    {
+      "name": "Intel Core i3-12100F",
+      "score": 4023,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i3-12100F"
+    },
+    {
+      "name": "Intel Core i3-12100",
+      "score": 4004,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i3-12100"
+    },
+    {
+      "name": "AMD Ryzen 5 3500X",
+      "score": 3817,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+3500X"
+    },
+    {
+      "name": "Intel Core i3-10100",
+      "score": 3185,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i3-10100"
+    },
+    {
+      "name": "Intel Core i3-10100F",
+      "score": 3182,
+      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+i3-10100F"
+    },
+    {
+      "name": "AMD Ryzen 3 3100",
+      "score": 2970,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+3+3100"
+    },
+    {
+      "name": "AMD Ryzen 5 3400G",
+      "score": 2384,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+5+3400G"
+    },
+    {
+      "name": "AMD Ryzen 3 3200G",
+      "score": 2000,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+3+3200G"
+    }
   ],
   "gpus": [
     {
-      "name": "NVIDIA RTX 4090",
-      "score": 30000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 5090",
+      "score": 14411,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5090"
     },
     {
-      "name": "NVIDIA RTX 4080",
-      "score": 26000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 5090 D",
+      "score": 14326,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5090+D"
+    },
+    {
+      "name": "NVIDIA RTX 4090",
+      "score": 9223,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4090"
+    },
+    {
+      "name": "NVIDIA RTX 5080",
+      "score": 8637,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5080"
+    },
+    {
+      "name": "NVIDIA RTX 4090 D",
+      "score": 8587,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4090+D"
+    },
+    {
+      "name": "AMD RX 9070 XT",
+      "score": 7260,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+9070+XT"
     },
     {
       "name": "AMD RX 7900 XTX",
-      "score": 25000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "score": 6841,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+XTX"
     },
     {
-      "name": "NVIDIA RTX 4070 Ti",
-      "score": 22000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 5070 Ti",
+      "score": 6604,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5070+Ti"
+    },
+    {
+      "name": "NVIDIA RTX 4080 SUPER",
+      "score": 6600,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4080+SUPER"
+    },
+    {
+      "name": "NVIDIA RTX 4080",
+      "score": 6567,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4080"
+    },
+    {
+      "name": "AMD RX 9070",
+      "score": 6290,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+9070"
+    },
+    {
+      "name": "NVIDIA RTX 3090 Ti",
+      "score": 5741,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3090+Ti"
     },
     {
       "name": "AMD RX 7900 XT",
-      "score": 21000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "score": 5623,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+XT"
     },
     {
-      "name": "NVIDIA RTX 4070",
-      "score": 19000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 4070 Ti SUPER",
+      "score": 5569,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+Ti+SUPER"
     },
     {
-      "name": "AMD RX 7800 XT",
-      "score": 18000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 3090",
+      "score": 5118,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3090"
     },
     {
-      "name": "NVIDIA RTX 4060 Ti",
-      "score": 16000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 3080 Ti",
+      "score": 5077,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+Ti"
+    },
+    {
+      "name": "NVIDIA RTX 5070",
+      "score": 5077,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5070"
+    },
+    {
+      "name": "NVIDIA RTX 4070 Ti",
+      "score": 5024,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+Ti"
+    },
+    {
+      "name": "AMD RX 7900 GRE",
+      "score": 4814,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+GRE"
+    },
+    {
+      "name": "NVIDIA RTX 3080 12 GB",
+      "score": 4791,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+12+GB"
+    },
+    {
+      "name": "NVIDIA Quadro RTX A6000",
+      "score": 4665,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Quadro+RTX+A6000"
+    },
+    {
+      "name": "NVIDIA RTX 4070 SUPER",
+      "score": 4627,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+SUPER"
     },
     {
       "name": "NVIDIA RTX 3080",
-      "score": 15000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "score": 4420,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080"
+    },
+    {
+      "name": "NVIDIA RTX 3080 LHR",
+      "score": 4407,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+LHR"
+    },
+    {
+      "name": "AMD RX 6950 XT",
+      "score": 4235,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6950+XT"
+    },
+    {
+      "name": "AMD RX 7800 XT",
+      "score": 4157,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7800+XT"
+    },
+    {
+      "name": "AMD RX 6900 XT",
+      "score": 4079,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6900+XT"
+    },
+    {
+      "name": "NVIDIA RTX 4070",
+      "score": 3854,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070"
+    },
+    {
+      "name": "NVIDIA Titan RTX",
+      "score": 3794,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+RTX"
+    },
+    {
+      "name": "NVIDIA RTX A5000",
+      "score": 3783,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A5000"
     },
     {
       "name": "AMD RX 6800 XT",
-      "score": 14500,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "score": 3689,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6800+XT"
     },
     {
-      "name": "NVIDIA RTX 4060",
-      "score": 13000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "name": "NVIDIA RTX 5060 Ti 16 GB",
+      "score": 3577,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5060+Ti+16+GB"
+    },
+    {
+      "name": "NVIDIA Titan V",
+      "score": 3565,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+V"
+    },
+    {
+      "name": "NVIDIA RTX 2080 Ti",
+      "score": 3537,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080+Ti"
+    },
+    {
+      "name": "NVIDIA RTX 3070 Ti",
+      "score": 3478,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3070+Ti"
+    },
+    {
+      "name": "AMD RX 7700 XT",
+      "score": 3316,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7700+XT"
+    },
+    {
+      "name": "NVIDIA RTX A4500",
+      "score": 3196,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A4500"
+    },
+    {
+      "name": "AMD RX 6800",
+      "score": 3188,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6800"
     },
     {
       "name": "NVIDIA RTX 3070",
-      "score": 12000,
-      "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=150&h=150&fit=crop"
+      "score": 3163,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3070"
+    },
+    {
+      "name": "NVIDIA RTX 3070 LHR",
+      "score": 3162,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3070+LHR"
+    },
+    {
+      "name": "Intel Arc B580",
+      "score": 3068,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+B580"
+    },
+    {
+      "name": "Intel Arc A770",
+      "score": 2969,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A770"
+    },
+    {
+      "name": "NVIDIA RTX 4060 Ti 8 GB",
+      "score": 2913,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4060+Ti+8+GB"
+    },
+    {
+      "name": "NVIDIA RTX 4060 Ti 16 GB",
+      "score": 2907,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4060+Ti+16+GB"
+    },
+    {
+      "name": "NVIDIA RTX 3060 Ti GDDR6X",
+      "score": 2795,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti+GDDR6X"
+    },
+    {
+      "name": "NVIDIA RTX 2080 SUPER",
+      "score": 2752,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080+SUPER"
+    },
+    {
+      "name": "NVIDIA RTX 3060 Ti",
+      "score": 2671,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti"
+    },
+    {
+      "name": "Intel Arc B570",
+      "score": 2649,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+B570"
+    },
+    {
+      "name": "NVIDIA RTX 3060 Ti LHR",
+      "score": 2626,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti+LHR"
+    },
+    {
+      "name": "Intel Arc A750",
+      "score": 2612,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A750"
+    },
+    {
+      "name": "NVIDIA RTX A4000",
+      "score": 2604,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A4000"
+    },
+    {
+      "name": "NVIDIA RTX 2080",
+      "score": 2596,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080"
+    },
+    {
+      "name": "AMD RX 6750 XT",
+      "score": 2548,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6750+XT"
+    },
+    {
+      "name": "AMD RX 6700 XT",
+      "score": 2435,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6700+XT"
+    },
+    {
+      "name": "NVIDIA RTX 2070 SUPER",
+      "score": 2413,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2070+SUPER"
+    },
+    {
+      "name": "AMD RX 6750 GRE 12 GB",
+      "score": 2402,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6750+GRE+12+GB"
+    },
+    {
+      "name": "NVIDIA Titan Xp",
+      "score": 2372,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+Xp"
+    },
+    {
+      "name": "AMD RX 7600 XT",
+      "score": 2348,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7600+XT"
+    },
+    {
+      "name": "NVIDIA Titan Xp Collector's Edition",
+      "score": 2345,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+Xp+Collector%27s+Edition"
+    },
+    {
+      "name": "AMD RX 7650 GRE",
+      "score": 2336,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7650+GRE"
+    },
+    {
+      "name": "AMD RX 7600",
+      "score": 2310,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7600"
+    },
+    {
+      "name": "AMD VII",
+      "score": 2304,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+VII"
+    },
+    {
+      "name": "NVIDIA RTX 4060",
+      "score": 2302,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4060"
+    },
+    {
+      "name": "NVIDIA Titan X (Pascal)",
+      "score": 2243,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+X+%28Pascal%29"
+    },
+    {
+      "name": "NVIDIA GTX 1080 Ti",
+      "score": 2231,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1080+Ti"
+    },
+    {
+      "name": "Intel Arc A580",
+      "score": 2229,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A580"
+    },
+    {
+      "name": "AMD RX 5700 XT",
+      "score": 2134,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5700+XT"
+    },
+    {
+      "name": "NVIDIA RTX 2070",
+      "score": 2105,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2070"
+    },
+    {
+      "name": "AMD RX 6700",
+      "score": 2014,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6700"
+    },
+    {
+      "name": "NVIDIA RTX 2060 SUPER",
+      "score": 2011,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2060+SUPER"
+    },
+    {
+      "name": "NVIDIA RTX 3060 GA104",
+      "score": 1997,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+GA104"
+    },
+    {
+      "name": "AMD RX 6750 GRE 10 GB",
+      "score": 1995,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6750+GRE+10+GB"
+    },
+    {
+      "name": "NVIDIA RTX 3060",
+      "score": 1961,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060"
+    },
+    {
+      "name": "NVIDIA Quadro RTX 4000",
+      "score": 1873,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Quadro+RTX+4000"
+    },
+    {
+      "name": "AMD RX 5700",
+      "score": 1862,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5700"
+    },
+    {
+      "name": "AMD RX 6650 XT",
+      "score": 1859,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6650+XT"
+    },
+    {
+      "name": "AMD RX 6600 XT",
+      "score": 1804,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6600+XT"
+    },
+    {
+      "name": "NVIDIA RTX 2060 12 GB",
+      "score": 1799,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2060+12+GB"
+    },
+    {
+      "name": "AMD RX 5600 XT",
+      "score": 1669,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5600+XT"
+    },
+    {
+      "name": "AMD RX Vega 64",
+      "score": 1669,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+Vega+64"
+    },
+    {
+      "name": "NVIDIA GTX 1080",
+      "score": 1625,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1080"
+    },
+    {
+      "name": "NVIDIA RTX 3060 8 GB",
+      "score": 1577,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+8+GB"
+    },
+    {
+      "name": "AMD RX Vega 56",
+      "score": 1501,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+Vega+56"
+    },
+    {
+      "name": "AMD RX 6600",
+      "score": 1492,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6600"
+    },
+    {
+      "name": "AMD RX 5600",
+      "score": 1490,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5600"
+    },
+    {
+      "name": "NVIDIA GTX 1070 Ti",
+      "score": 1471,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1070+Ti"
+    },
+    {
+      "name": "NVIDIA P104-100",
+      "score": 1413,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+P104-100"
+    },
+    {
+      "name": "NVIDIA RTX A2000",
+      "score": 1345,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A2000"
+    },
+    {
+      "name": "NVIDIA GTX 1070",
+      "score": 1340,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1070"
+    },
+    {
+      "name": "NVIDIA Quadro P5000",
+      "score": 1330,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Quadro+P5000"
+    },
+    {
+      "name": "NVIDIA RTX 3050",
+      "score": 1329,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3050"
+    },
+    {
+      "name": "NVIDIA GTX 980 Ti",
+      "score": 1321,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+980+Ti"
+    },
+    {
+      "name": "NVIDIA GTX 1660 Ti",
+      "score": 1309,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1660+Ti"
+    },
+    {
+      "name": "NVIDIA RTX A2000 12 GB",
+      "score": 1309,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A2000+12+GB"
+    },
+    {
+      "name": "NVIDIA GTX 1660 SUPER",
+      "score": 1278,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1660+SUPER"
+    },
+    {
+      "name": "AMD RX 590",
+      "score": 1081,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+590"
+    },
+    {
+      "name": "NVIDIA GTX 1660",
+      "score": 1065,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1660"
+    },
+    {
+      "name": "AMD RX 5500 XT",
+      "score": 1032,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5500+XT"
+    },
+    {
+      "name": "AMD RX 580",
+      "score": 1005,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+580"
+    },
+    {
+      "name": "NVIDIA RTX 3050 6 GB",
+      "score": 1003,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3050+6+GB"
+    },
+    {
+      "name": "AMD RX 590 GME",
+      "score": 1001,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+590+GME"
+    },
+    {
+      "name": "AMD RX 480",
+      "score": 966,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+480"
+    },
+    {
+      "name": "AMD R9 390",
+      "score": 955,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+R9+390"
+    },
+    {
+      "name": "NVIDIA GTX 1060-6GB",
+      "score": 907,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1060-6GB"
+    },
+    {
+      "name": "AMD RX 570",
+      "score": 880,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+570"
+    },
+    {
+      "name": "AMD RX 580 2048SP",
+      "score": 849,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+580+2048SP"
+    },
+    {
+      "name": "AMD RX 470",
+      "score": 842,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+470"
+    },
+    {
+      "name": "Intel Arc A380",
+      "score": 808,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A380"
+    },
+    {
+      "name": "NVIDIA GTX 1060",
+      "score": 702,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1060"
+    },
+    {
+      "name": "AMD 780M (desktop)",
+      "score": 520,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+780M+%28desktop%29"
+    },
+    {
+      "name": "NVIDIA GTX 980",
+      "score": 474,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+980"
+    },
+    {
+      "name": "NVIDIA GTX 970",
+      "score": 369,
+      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+970"
+    },
+    {
+      "name": "AMD RX 6500 XT",
+      "score": 235,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6500+XT"
+    },
+    {
+      "name": "AMD Vega 7 (Cezanne)",
+      "score": 225,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Vega+7+%28Cezanne%29"
+    },
+    {
+      "name": "AMD RX 6400",
+      "score": 176,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6400"
+    },
+    {
+      "name": "AMD Graphics (Granite Ridge)",
+      "score": 132,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Graphics+%28Granite+Ridge%29"
+    },
+    {
+      "name": "AMD Graphics (Raphael)",
+      "score": 126,
+      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Graphics+%28Raphael%29"
+    },
+    {
+      "name": "Intel UHD Graphics 770 (13th)",
+      "score": 78,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+UHD+Graphics+770+%2813th%29"
+    },
+    {
+      "name": "Intel UHD Graphics 770 (12th)",
+      "score": 72,
+      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+UHD+Graphics+770+%2812th%29"
     }
   ],
   "resolutions": [
     {
-      "name": "1080p",
+      "name": "720p",
       "factor": 1.0
     },
     {
-      "name": "1440p",
-      "factor": 1.6
+      "name": "1080p",
+      "factor": 1.5
     },
     {
-      "name": "4K (2160p)",
-      "factor": 2.4
+      "name": "1440p",
+      "factor": 2.5
+    },
+    {
+      "name": "4K",
+      "factor": 4.0
     },
     {
       "name": "1080p Ultrawide",
-      "factor": 1.3
+      "factor": 1.8
     },
     {
       "name": "1440p Ultrawide",
-      "factor": 2.0
+      "factor": 3.2
+    },
+    {
+      "name": "4K Ultrawide",
+      "factor": 5.0
+    },
+    {
+      "name": "1080p 144Hz",
+      "factor": 1.7
+    },
+    {
+      "name": "1440p 165Hz",
+      "factor": 2.8
+    },
+    {
+      "name": "4K 120Hz",
+      "factor": 4.5
+    },
+    {
+      "name": "Super Ultrawide",
+      "factor": 3.8
+    },
+    {
+      "name": "DQHD",
+      "factor": 4.2
+    },
+    {
+      "name": "5K",
+      "factor": 5.5
     },
     {
       "name": "8K",
-      "factor": 4.0
+      "factor": 8.0
     }
   ]
 }
