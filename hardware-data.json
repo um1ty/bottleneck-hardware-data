@@ -38,7 +38,7 @@
     {
       "name": "Intel Core Ultra 9 285",
       "score": 17062,
-      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+9+285"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/683d995e8eb285736817a31d.png"
     },
     {
       "name": "AMD Ryzen 9 9950X",
@@ -108,7 +108,7 @@
     {
       "name": "AMD Ryzen 9 7950X3D",
       "score": 14252,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+9+7950X3D"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/684486ec19da182adabf8653.png"
     },
     {
       "name": "Intel Core i7 14700K",
@@ -158,7 +158,7 @@
     {
       "name": "Intel Core Ultra 5 245K",
       "score": 12456,
-      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Core+Ultra+5+245K"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/684487e019da18ed90bf87d9.png"
     },
     {
       "name": "Intel Core i7-13700K",
@@ -318,7 +318,7 @@
     {
       "name": "AMD Ryzen 7 7700",
       "score": 8479,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+Ryzen+7+7700"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/684486ec2c95c56815c23eda.png"
     },
     {
       "name": "Intel Core i9-11900KF",
@@ -603,7 +603,7 @@
     {
       "name": "Intel Xeon E5-2666 v3",
       "score": 4815,
-      "image": "https://via.placeholder.com/300x200/6b6bff/fff?text=Intel+Xeon+E5-2666+v3"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/684487e005691076d7cec325.png"
     },
     {
       "name": "AMD Ryzen 5 3600XT",
@@ -675,22 +675,22 @@
     {
       "name": "NVIDIA RTX 5090",
       "score": 14411,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5090"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a590bb4d5cf4d.png"
     },
     {
       "name": "NVIDIA RTX 5090 D",
       "score": 14326,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5090+D"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab362d985688b.png"
     },
     {
       "name": "NVIDIA RTX 4090",
       "score": 9223,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4090"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d231f60651df.png"
     },
     {
       "name": "NVIDIA RTX 5080",
       "score": 8637,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5080"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2076e0651eb.png"
     },
     {
       "name": "NVIDIA RTX 4090 D",
@@ -700,172 +700,172 @@
     {
       "name": "AMD RX 9070 XT",
       "score": 7260,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+9070+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3e370856888.png"
     },
     {
       "name": "AMD RX 7900 XTX",
       "score": 6841,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+XTX"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b31663c49a6.png"
     },
     {
       "name": "NVIDIA RTX 5070 Ti",
       "score": 6604,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5070+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bee5d6a59206dd5cf34.png"
     },
     {
       "name": "NVIDIA RTX 4080 SUPER",
       "score": 6600,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4080+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b12833c49a5.png"
     },
     {
       "name": "NVIDIA RTX 4080",
       "score": 6567,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4080"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d248000651ec.png"
     },
     {
       "name": "AMD RX 9070",
       "score": 6290,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+9070"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3e370856888.png"
     },
     {
       "name": "NVIDIA RTX 3090 Ti",
       "score": 5741,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3090+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a59bdd8d5cf47.png"
     },
     {
       "name": "AMD RX 7900 XT",
       "score": 5623,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b31663c49a6.png"
     },
     {
       "name": "NVIDIA RTX 4070 Ti SUPER",
       "score": 5569,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+Ti+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3365285688f.png"
     },
     {
       "name": "NVIDIA RTX 3090",
       "score": 5118,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3090"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a59bdd8d5cf47.png"
     },
     {
       "name": "NVIDIA RTX 3080 Ti",
       "score": 5077,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbccee8e7743ff9.png"
     },
     {
       "name": "NVIDIA RTX 5070",
       "score": 5077,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5070"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbcce61a5743ffd.png"
     },
     {
       "name": "NVIDIA RTX 4070 Ti",
       "score": 5024,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3365285688f.png"
     },
     {
       "name": "AMD RX 7900 GRE",
       "score": 4814,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7900+GRE"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d25eb70651e6.png"
     },
     {
       "name": "NVIDIA RTX 3080 12 GB",
       "score": 4791,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+12+GB"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861be1433c49a4.png"
     },
     {
       "name": "NVIDIA Quadro RTX A6000",
       "score": 4665,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Quadro+RTX+A6000"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a5986b3d5cf46.png"
     },
     {
       "name": "NVIDIA RTX 4070 SUPER",
       "score": 4627,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b53d43c499e.png"
     },
     {
       "name": "NVIDIA RTX 3080",
       "score": 4420,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861ba0e63c49a7.png"
     },
     {
       "name": "NVIDIA RTX 3080 LHR",
       "score": 4407,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3080+LHR"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbcce8088743ffc.png"
     },
     {
       "name": "AMD RX 6950 XT",
       "score": 4235,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6950+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbcceef56743fef.png"
     },
     {
       "name": "AMD RX 7800 XT",
       "score": 4157,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7800+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab333e1856886.png"
     },
     {
       "name": "AMD RX 6900 XT",
       "score": 4079,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6900+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b5df53c4994.png"
     },
     {
       "name": "NVIDIA RTX 4070",
       "score": 3854,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4070"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3365285688f.png"
     },
     {
       "name": "NVIDIA Titan RTX",
       "score": 3794,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+RTX"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a590e70d5cf3b.png"
     },
     {
       "name": "NVIDIA RTX A5000",
       "score": 3783,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A5000"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2eeab0651ea.png"
     },
     {
       "name": "AMD RX 6800 XT",
       "score": 3689,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6800+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b79c23c4993.png"
     },
     {
       "name": "NVIDIA RTX 5060 Ti 16 GB",
       "score": 3577,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+5060+Ti+16+GB"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbccedfcb743fec.png"
     },
     {
       "name": "NVIDIA Titan V",
       "score": 3565,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+V"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d267870651f3.png"
     },
     {
       "name": "NVIDIA RTX 2080 Ti",
       "score": 3537,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbcce1897743ff8.png"
     },
     {
       "name": "NVIDIA RTX 3070 Ti",
       "score": 3478,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3070+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861bb8163c499d.png"
     },
     {
       "name": "AMD RX 7700 XT",
       "score": 3316,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7700+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861ba2823c49a3.png"
     },
     {
       "name": "NVIDIA RTX A4500",
       "score": 3196,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A4500"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a59850ed5cf37.png"
     },
     {
       "name": "AMD RX 6800",
       "score": 3188,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6800"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b79c23c4993.png"
     },
     {
       "name": "NVIDIA RTX 3070",
       "score": 3163,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3070"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a590bb4d5cf4d.png"
     },
     {
       "name": "NVIDIA RTX 3070 LHR",
@@ -875,12 +875,12 @@
     {
       "name": "Intel Arc B580",
       "score": 3068,
-      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+B580"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab36c2d856892.png"
     },
     {
       "name": "Intel Arc A770",
       "score": 2969,
-      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A770"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d25eb70651e6.png"
     },
     {
       "name": "NVIDIA RTX 4060 Ti 8 GB",
@@ -890,77 +890,77 @@
     {
       "name": "NVIDIA RTX 4060 Ti 16 GB",
       "score": 2907,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4060+Ti+16+GB"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b3c6f3c499f.png"
     },
     {
       "name": "NVIDIA RTX 3060 Ti GDDR6X",
       "score": 2795,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti+GDDR6X"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3ce3e85688d.png"
     },
     {
       "name": "NVIDIA RTX 2080 SUPER",
       "score": 2752,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b089e3c4999.png"
     },
     {
       "name": "NVIDIA RTX 3060 Ti",
       "score": 2671,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a597e46d5cf4c.png"
     },
     {
       "name": "Intel Arc B570",
       "score": 2649,
-      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+B570"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a5904bfd5cf43.png"
     },
     {
       "name": "NVIDIA RTX 3060 Ti LHR",
       "score": 2626,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+Ti+LHR"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a597e46d5cf4c.png"
     },
     {
       "name": "Intel Arc A750",
       "score": 2612,
-      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A750"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d25eb70651e6.png"
     },
     {
       "name": "NVIDIA RTX A4000",
       "score": 2604,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+A4000"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2076e0651eb.png"
     },
     {
       "name": "NVIDIA RTX 2080",
       "score": 2596,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2080"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b4fae3c499c.png"
     },
     {
       "name": "AMD RX 6750 XT",
       "score": 2548,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6750+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d262720651ef.png"
     },
     {
       "name": "AMD RX 6700 XT",
       "score": 2435,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6700+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab3c160856884.png"
     },
     {
       "name": "NVIDIA RTX 2070 SUPER",
       "score": 2413,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2070+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbccef39e743ff1.png"
     },
     {
       "name": "AMD RX 6750 GRE 12 GB",
       "score": 2402,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6750+GRE+12+GB"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a591f21d5cf3f.png"
     },
     {
       "name": "NVIDIA Titan Xp",
       "score": 2372,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+Titan+Xp"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a599b88d5cf4a.png"
     },
     {
       "name": "AMD RX 7600 XT",
       "score": 2348,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7600+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2da4a0651e1.png"
     },
     {
       "name": "NVIDIA Titan Xp Collector's Edition",
@@ -970,22 +970,22 @@
     {
       "name": "AMD RX 7650 GRE",
       "score": 2336,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7650+GRE"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab358be856881.png"
     },
     {
       "name": "AMD RX 7600",
       "score": 2310,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+7600"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab37ca4856882.png"
     },
     {
       "name": "AMD VII",
       "score": 2304,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+VII"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d27bd30651e4.png"
     },
     {
       "name": "NVIDIA RTX 4060",
       "score": 2302,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+4060"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef5d6a59d6e7d5cf48.png"
     },
     {
       "name": "NVIDIA Titan X (Pascal)",
@@ -995,37 +995,37 @@
     {
       "name": "NVIDIA GTX 1080 Ti",
       "score": 2231,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+GTX+1080+Ti"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2380f0651e8.png"
     },
     {
       "name": "Intel Arc A580",
       "score": 2229,
-      "image": "https://via.placeholder.com/300x200/0071c5/fff?text=Intel+Arc+A580"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d2558e0651e5.png"
     },
     {
       "name": "AMD RX 5700 XT",
       "score": 2134,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+5700+XT"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbccee5fe743fee.png"
     },
     {
       "name": "NVIDIA RTX 2070",
       "score": 2105,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2070"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458bef3dbccef39e743ff1.png"
     },
     {
       "name": "AMD RX 6700",
       "score": 2014,
-      "image": "https://via.placeholder.com/300x200/ff6b6b/fff?text=AMD+RX+6700"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe8861b54153c49a2.png"
     },
     {
       "name": "NVIDIA RTX 2060 SUPER",
       "score": 2011,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+2060+SUPER"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befbf90d21ac90651e9.png"
     },
     {
       "name": "NVIDIA RTX 3060 GA104",
       "score": 1997,
-      "image": "https://via.placeholder.com/300x200/00ff00/000?text=NVIDIA+RTX+3060+GA104"
+      "image": "https://storage.googleapis.com/msgsndr/3RZ3xFIZOD77cdK3GRzg/media/68458befe68ab362d985688b.png"
     },
     {
       "name": "AMD RX 6750 GRE 10 GB",
